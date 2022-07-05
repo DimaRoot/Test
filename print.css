@@ -22,8 +22,9 @@ Andreas Hecht in https://www.jotform.com/blog/css-perfect-print-stylesheet-98272
   /* Margins */
 
   @page {
-    margin: 2cm;
+    margin: 3cm;
   }
+
 
   .entry-header,
   .site-footer {
