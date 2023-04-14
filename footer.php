@@ -12,13 +12,13 @@
  */
 
 ?>
-			<footer id="site-footer" class="header-footer-group">
+			<footer 1 id="site-footer" class="header-footer-group">
 
-				<div class="section-inner">
+				<div  1 class="section-inner">
 
-					<div class="footer-credits">
+					<div 1 class="footer-credits">
 
-						<p class="footer-copyright">&copy;
+						<p 1 class="footer-copyright">&copy;
 							<?php
 							echo date_i18n(
 								/* translators: Copyright date format, see https://www.php.net/manual/datetime.format.php */
